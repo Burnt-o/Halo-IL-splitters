@@ -17,12 +17,12 @@ If you're having issues getting it working, try: right click on your livesplit w
 
 
 # Known issues:
-Keyes splitters:
-  *Timer will start at the intro cutscene and then reset when you skip it, doubling your attempt count.
-  *IGT timers pause if you open up the pause menu or alt tab. Kind of good tho.
-  *Will definitely break if you take a weird route like fullpath keyes or something.
-  *Timer can start at weird times like the mainmenu or when exiting the game.
-  *IGTc has issues around section7/7_1 like possibly splitting when it's not actually the cycle.
+- Keyes splitters: - 
+  * Timer will start at the intro cutscene and then reset when you skip it, doubling your attempt count.
+  * IGT timers pause if you open up the pause menu or alt tab. Kind of good tho.
+  * Will definitely break if you take a weird route like fullpath keyes or something.
+  * Timer can start at weird times like the mainmenu or when exiting the game.
+  * IGTc has issues around section7/7_1 like possibly splitting when it's not actually the cycle.
 
 
 # Some notes on the Keyes splitters:
